@@ -1,0 +1,9 @@
+{
+  "name": "plant-your-stem",
+  "version": "1.0.0",
+  "description": "영어 STEM 문서(PDF)를 한국어로 번역·스캐폴딩하고, 내 말로 설명하기로 이해도를 확인하는 공대생 학습 플러그인",
+  "author": {
+    "name": "Jelim Lee",
+    "url": "https://github.com/JelimLee"
+  }
+}
